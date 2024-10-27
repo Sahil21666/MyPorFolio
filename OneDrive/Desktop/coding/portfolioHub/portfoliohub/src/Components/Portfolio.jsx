@@ -71,7 +71,7 @@ function Portfolio() {
                 <img  
                   src={project.imageUrl}
                   alt={project.title}
-                  className="h-full w-full object-cover rounded-lg transition-transform duration-500 group-hover:scale-110 opacity-0 animate-fade-in"
+                  className="h-full w-full object-cover rounded-lg transition-transform duration-500 group-hover:scale-105 opacity-100 animate-fade-in"
                 />
               
                 {/* Hover Overlay */}
